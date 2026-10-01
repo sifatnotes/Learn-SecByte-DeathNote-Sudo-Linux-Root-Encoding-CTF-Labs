@@ -102,3 +102,27 @@ Encoding / Decoding
 Privilege Escalation Analysis
      ↓
 Root / Flag Objective
+Keep notes about commands, observations, discovered artifacts, and lessons learned. The goal is to understand the underlying security concepts rather than simply completing a flag objective.
+
+Skills Covered
+Linux enumeration
+CTF methodology
+File and flag discovery
+Credential investigation
+Sudo security concepts
+Linux privilege escalation
+Root-shell concepts
+Base64 decoding
+Hexadecimal decoding
+Encoded-data analysis
+Security reconnaissance
+Hands-on penetration testing methodology
+Disclaimer
+
+These resources are intended for authorized cybersecurity education, CTF competitions, and controlled laboratory environments. Do not use techniques learned from these labs against systems, accounts, networks, or applications without explicit authorization.
+
+This repository is an organizational and educational resource and does not provide unauthorized access to third-party systems.
+
+About Learn SecByte
+
+The linked labs are provided through Learn SecByte and are intended to support practical cybersecurity and CTF learning.
